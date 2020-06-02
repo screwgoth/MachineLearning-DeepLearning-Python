@@ -4,6 +4,24 @@ This repo contains a collection of Python programs and Jupyter Notebooks for  Ma
 _Disclaimer :_ Most of the scripts are from the Udemy course "[Machine Learning A-Z: Hands-On Python & R in Data Science](https://www.udemy.com/course/machinelearning/learn/lecture/6087180#overview)" by Kirill Eremenko and Hadelin de Ponteves.
 
 The repository is composed of the following sections:
-* templates : This folder contains templates that can be used when writing new scripts for various Models
+* `datasets` : This folder contains the various Datasets used in the Jupyter Notebooks in CSV files
+* `templates` : This folder contains templates that can be used when writing new scripts for various Models
+* `Regression` : This folder contains Jupyter notebooks for the following Regression Models:
+  * Simple Linear Regression
+  * Multiple Linear Regression
+  * Polynomial Regression
+  * Support Vector Regression
+  * Decision Tree Regression
+  * Random Forest Regression
+* `Classification` : this folder contains Jupyter notebooks for the following Classification Models:
+  * Logistic Regression
+  * K - Nearest Neighbor (K-NN)
+  * Support Vector Machine (SVM)
+  * Kernel SVM
+  * Naive Bayes
+  * Decision Tree Classification
+  * Random Forest Classification
+
+
 
 
