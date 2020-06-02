@@ -29,6 +29,10 @@ The repository is composed of the following sections:
 * `Reinforcement Learning` : This folder contains Jupyter notebooks for the following Reinforcement Learning Models:
   * Upper Confidence Bound (UCB)
   * Thompson Sampling
+* `Natural Language Processing` : This folder contains Jupyter notebook for the Natural Language Processing Model
+* `Deep Learning` : This folder contains the Jupyter notebooks for the following Deep Learning Models:
+  * Artificial Neural Networks (ANN)
+  * Convolutional Neural Networks (CNN)
 
 
 
