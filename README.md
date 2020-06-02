@@ -13,7 +13,7 @@ The repository is composed of the following sections:
   * Support Vector Regression
   * Decision Tree Regression
   * Random Forest Regression
-* `Classification` : this folder contains Jupyter notebooks for the following Classification Models:
+* `Classification` : This folder contains Jupyter notebooks for the following Classification Models:
   * Logistic Regression
   * K - Nearest Neighbor (K-NN)
   * Support Vector Machine (SVM)
@@ -21,9 +21,11 @@ The repository is composed of the following sections:
   * Naive Bayes
   * Decision Tree Classification
   * Random Forest Classification
-* `Clustering` : This folder contain Jupyter notebooks for the following Clustering Models:
+* `Clustering` : This folder contains Jupyter notebooks for the following Clustering Models:
   * K-Means Clustering
   * Hierarchical Clustering
+* `Association Rule Learning` : This folder contains Jupyter notebooks for the following Association Rule Learning Models:
+  * Apriori
 
 
 
