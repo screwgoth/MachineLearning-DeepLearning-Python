@@ -21,6 +21,9 @@ The repository is composed of the following sections:
   * Naive Bayes
   * Decision Tree Classification
   * Random Forest Classification
+* `Clustering` : This folder contain Jupyter notebooks for the following Clustering Models:
+  * K-Means Clustering
+  * Hierarchical Clustering
 
 
 
