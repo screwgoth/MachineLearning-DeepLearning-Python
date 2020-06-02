@@ -26,6 +26,9 @@ The repository is composed of the following sections:
   * Hierarchical Clustering
 * `Association Rule Learning` : This folder contains Jupyter notebooks for the following Association Rule Learning Models:
   * Apriori
+* `Reinforcement Learning` : This folder contains Jupyter notebooks for the following Reinforcement Learning Models:
+  * Upper Confidence Bound (UCB)
+  * Thompson Sampling
 
 
 
